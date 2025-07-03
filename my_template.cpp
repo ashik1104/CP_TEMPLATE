@@ -78,9 +78,5 @@ int main() {
     #endif
 
     fastio();
-
-    vi v = {1, 2, 3, 4, 5};
-    debug(v);
-    v[0] = 20030;
-    debug(v);
+    cout << "ok" << endl;
 }
